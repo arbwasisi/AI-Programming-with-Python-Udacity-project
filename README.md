@@ -10,8 +10,6 @@ The project is broken down into multiple steps:
 - Train the image classifier on the dataset
 - Use the trained classifier to predict image content
 
-[This is the html file for my notebook]{file:///Users/arsensei99/Desktop/Udacity/AI%20w:%20Python/Image%20Classifier%20Project.html}
-
 The repo is mainly composed of modules that run on the commandline. 
 
 In `utils.py`, I create the command line input arguments and instructions for the users to follow
