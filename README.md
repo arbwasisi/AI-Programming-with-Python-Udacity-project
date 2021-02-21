@@ -16,4 +16,4 @@ In `utils.py`, I create the command line input arguments and instructions for th
 and run the app. `model_fn.py` downloads a pretrained neural network with pytorch, trains the model, and saves
 it to a checkpoint which we can load from for later use. That last two modules `train.py` and `predict.py` are
 `main()` calls that take the users inputs, builds and trains the module and provides a prediction, for the 
-given image, the like top 5 flowers in the image.
+given image, the likely top 5 flowers in the image.
