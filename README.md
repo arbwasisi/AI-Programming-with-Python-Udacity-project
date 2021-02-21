@@ -1,5 +1,5 @@
 # AI-Programming-with-Python-Udacity-project
-Final Project from Udacity's AI Programming course
+Final Project from Udacity's AI Programming course.
 
 In this project, we are tasked with building an image classifier to classify a dataset of image flowers.
 Initaily we build and train a neural network on Jupyter Notebook, then we build a command line application.
